@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student at Montclair State University, passi
 
 🚀 About Me
 
-🎓 Major: Information Technology
+🎓 Major: Computer Science
 
 💻 Currently Learning: Java, AI integration, website hosting, and app development.
 
